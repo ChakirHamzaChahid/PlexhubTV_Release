@@ -2,7 +2,7 @@
 
 Client **Android TV** qui unifie tes bibliothèques **Plex, Jellyfin et IPTV/Xtream** en une seule bibliothèque (sans doublons quand le même film/série existe sur plusieurs serveurs), avec un lecteur performant **ExoPlayer** + repli **MPV** pour le Dolby Vision / HDR.
 
-> ⚠️ Ce dépôt sert **uniquement à distribuer l'APK**. Le code source est **privé et propriétaire** (voir [Licence](#-licence)).
+> ⚠️ Ce dépôt sert **uniquement à distribuer l'APK**.).
 
 ## 📥 Installation
 
