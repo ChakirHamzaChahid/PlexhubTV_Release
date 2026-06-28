@@ -34,6 +34,6 @@ L'application intègre les **mises à jour OTA**. Sinon, réinstalle le dernier 
 
 ## 📄 Licence
 
-© 2026 ChakirHamzaChahid — **Tous droits réservés. Propriétaire et confidentiel.**
+© 2026 Chakir — **Tous droits réservés. Propriétaire et confidentiel.**
 
 Distribution **binaire uniquement**. Toute copie, redistribution, décompilation ou réutilisation du code (même partielle) est interdite sans autorisation écrite préalable.
