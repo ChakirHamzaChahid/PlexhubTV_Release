@@ -1,4 +1,4 @@
-## PlexHubTV 1.0.17
+## FlexHubTV 1.0.17
 
 ### 🐛 Corrections
 - **Épisodes manquants** — fin d'une disparition aléatoire d'épisodes sur certaines séries présentes sur plusieurs sources : la liste du serveur courant est désormais préservée, on ne fait qu'**ajouter** les épisodes des autres serveurs.
