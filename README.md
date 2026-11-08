@@ -1,4 +1,4 @@
-# PlexHubTV
+# FlexHubTV
 
 Client **Android TV** qui unifie tes bibliothèques **Plex, Jellyfin et IPTV/Xtream** en une seule bibliothèque (sans doublons quand le même film/série existe sur plusieurs serveurs), avec un lecteur performant **ExoPlayer** + repli **MPV** pour le Dolby Vision / HDR.
 
